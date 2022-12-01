@@ -1,0 +1,40 @@
+#output li {
+    background: #8de055;
+    margin: 1px;
+}
+
+#name {
+    background: #dcdcdc;
+    margin: 3px;
+    padding: 3px;
+    font-size: 20px;
+}
+
+#output {
+    background: #8de055;
+    width: auto;
+    margin: 25px;
+    padding: 3px;
+}
+
+#text {
+    background: #dcdcdc;
+    margin: 3px;
+    padding: 3px;
+    font-size: 20px;
+}
+
+body {
+    margin: 0 auto;
+    font-size: 20px;
+    width: 700px;
+    text-align: center;
+    background-image: url(../img/bg_img.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+fieldset {
+    background: #e6e6e6;
+}
